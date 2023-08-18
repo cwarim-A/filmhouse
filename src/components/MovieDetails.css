@@ -99,28 +99,4 @@
 
 
 
-  /* Media Queries */
-  /* @media screen and (max-width: 1200px) {
-    .movie-content {
-      width: 70%;
-    }
-  } */
-  
-  /* @media screen and (max-width: 768px) {
-    .movie-details {
-      padding: 50px 20px;
-    }
-  
-    .sub-movie-content {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .sub-movie-content > .year,
-    .sub-movie-content > .length,
-    .sub-movie-content > .language,
-    .sub-movie-content > .release-date {
-      /* text-align: center; */
-    }
-  } */
-  
+ 
