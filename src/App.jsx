@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/filmhouse">
       <Routes>
         <Route exact path="/" element={<RootLayout/>}/>
         <Route path="/moviesDetails/:moviesid" element={<MoviesDetails/>}/>
