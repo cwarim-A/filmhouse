@@ -4,7 +4,7 @@ import Searchbar from "./Searchbar";
 import MovieCard from "./MovieCard";
 import { Link, useParams } from "react-router-dom";
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=d1b90b0d";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=d1b90b0d";
 
 const RootLayout = () => {
   const [movies, setMovies] = useState([]);
